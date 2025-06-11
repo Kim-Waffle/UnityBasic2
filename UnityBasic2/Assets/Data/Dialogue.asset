@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf535be09825d940ad9a883529d5671, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Dialogue
+  dataArray:
+  - id: 1
+    bg: bg_alley_day
+    character: 10101
+    position: 1
+    dialogue: "\uC5EC\uAE34.. \uAE30\uBD84 \uB098\uC05C\uACF3\uC774\uAD70\uC694.
+      \uBCC0\uD638\uC0AC\uB2D8."
+  - id: 2
+    bg: bg_alley_day
+    character: 10201
+    position: 2
+    dialogue: "\uADF8\uB807\uAD70. \uC2EC\uC9C0\uC5B4 \uB0A0\uC528\uB3C4 \uC88B\uC9C0
+      \uC54A\uC544. \uC5BC\uB978 \uB9C8\uBB34\uB9AC\uD574\uC57C\uACA0\uC5B4."
+  - id: 3
+    bg: bg_alley_day
+    character: 10301
+    position: 3
+    dialogue: "\uB098\uB294 \uBB58 \uD558\uBA74 \uB418\uC9C0?"
+  - id: 4
+    bg: bg_alley_day
+    character: 10401
+    position: 4
+    dialogue: "... \uC637\uBD80\uD130 \uC785\uC5B4\uB77C."
+  - id: 5
+    bg: bg_alley_day
+    character: 10501
+    position: 5
+    dialogue: "\uBAA8\uB450 \uC870\uC6A9. \uB0B4 \uC9C0\uC2DC \uC678\uC758 \uD589\uB3D9\uC740
+      \uD5C8\uB77D\uD558\uC9C0 \uC54A\uACA0\uC5B4."

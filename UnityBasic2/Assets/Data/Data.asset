@@ -19,14 +19,12 @@ MonoBehaviour:
   workSheetName: Test
   columnHeaderList:
   - type: 3
-    name: ID_I
-    isEnable: 0
-    isArray: 0
-  - type: 1
-    name: Name_S
+    name: ID
     isEnable: 0
     isArray: 0
   excelFilePath: Assets/Data/Data.xlsx
   SheetNames:
   - Test
+  - Dialogue
+  - Character
   currentSelectedSheet: 0
